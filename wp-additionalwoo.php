@@ -6,7 +6,7 @@
 Plugin Name: WP-AdditionalWoo
 Plugin URI: https://nodomain.com/
 Description: Lorem Ipsum
-Version: 0.01.ALPHA
+Version: 0.01.BETA
 Author: Wjatcheslav
 Author URI: http://nodomain.com/
 License: GPLv2 or later
